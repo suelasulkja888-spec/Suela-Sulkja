@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://suelasulkja888-spec.github.io/Suela-Sulkja/sitemap.xml
