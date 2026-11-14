@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1200" role="img" aria-labelledby="title desc">
+<title id="title">Suela Sulkja — Avokate dhe Ndërmjetëse</title>
+<desc id="desc">Identitet vizual profesional me inicialet S.S., peshoren e drejtësisë dhe libra juridikë në ngjyrë blu të errët dhe të artë.</desc>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#101d35"/><stop offset="1" stop-color="#20395e"/></linearGradient>
+  <linearGradient id="gold" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#f0d99c"/><stop offset="1" stop-color="#b58b45"/></linearGradient>
+</defs>
+<rect width="900" height="1200" fill="url(#bg)"/>
+<rect x="42" y="42" width="816" height="1116" fill="none" stroke="url(#gold)" stroke-width="3"/>
+<rect x="62" y="62" width="776" height="1076" fill="none" stroke="#c8a96b" stroke-opacity=".35"/>
+<g fill="none" stroke="url(#gold)" stroke-width="9" stroke-linecap="round" stroke-linejoin="round">
+  <path d="M450 205v300M315 270h270M450 205l-135 65M450 205l135 65"/>
+  <path d="M315 270l-82 165h164zM585 270l-82 165h164z"/>
+  <path d="M233 435c15 44 131 44 164 0M503 435c15 44 131 44 164 0"/>
+  <path d="M385 510h130M420 535h60"/>
+</g>
+<circle cx="450" cy="205" r="17" fill="#e8d29b"/>
+<text x="450" y="700" fill="url(#gold)" font-family="Georgia,serif" font-size="148" text-anchor="middle" letter-spacing="12">S.S.</text>
+<path d="M250 755h400" stroke="#c8a96b" stroke-width="2"/>
+<text x="450" y="825" fill="#fff" font-family="Georgia,serif" font-size="48" text-anchor="middle" letter-spacing="5">SUELA SULKJA</text>
+<text x="450" y="890" fill="#e4d4b2" font-family="Arial,sans-serif" font-size="25" text-anchor="middle" letter-spacing="5">AVOKATE &amp; NDËRMJETËSE</text>
+<g fill="none" stroke="#c8a96b" stroke-width="5">
+  <path d="M255 990h390M280 990v-62q85-28 170 0v62M450 990v-62q85-28 170 0v62"/>
+  <path d="M280 990q85 28 170 0q85 28 170 0"/>
+</g>
+<text x="450" y="1070" fill="#dce2eb" font-family="Georgia,serif" font-size="24" text-anchor="middle" font-style="italic">Drejtësia kërkon përkushtim.</text>
+</svg>
